@@ -1,7 +1,7 @@
 ---
-title: Home Page
-layout: default
-navigation_weight: 1
+Problema: 1
+Riesgo: 1
+Mitigación: 1
 ---
 
 # Cybersecurity Checklist for Smart Cities
