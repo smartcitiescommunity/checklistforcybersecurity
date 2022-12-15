@@ -9,7 +9,7 @@ Dispositivo: Contexto
 
 # Cybersecurity Checklist para Smart Cities
 
-| Columna 1 | Columna 2 | Columna 3 | Columna 4 | Columna 5 | Columna 6 |
+| # | Problema | Solución | Área | Dispositivo | Realizado? |
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | Fila 1    | Fila 1    | Fila 1    | Fila 1    | Fila 1    | Fila 1    |
 | Fila 2    | Fila 2    | Fila 2    | Fila 2    | Fila 2    | Fila 2    |
