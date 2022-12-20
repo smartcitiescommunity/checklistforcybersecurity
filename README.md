@@ -1,7 +1,6 @@
 ---
 Problema: Vector de Ataque Vulnerable
-Riesgo: Consecuencias
-Mitigación: Que hacer
+Solución: Que hacer
 Área: Contexto
 Dispositivo: Contexto
 ---
