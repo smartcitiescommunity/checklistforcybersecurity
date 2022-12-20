@@ -1,4 +1,4 @@
-# Computaci - Cybersecurity Checklist para Smart Cities
+# Computación en la nube - Cybersecurity Checklist para Smart Cities
 
 | # | Problema | Solución | Área | Dispositivo |  ✅  |
 |:----------|:---------:|:---------:|:---------:|:---------:|----------:|
